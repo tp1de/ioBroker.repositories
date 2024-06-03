@@ -41,7 +41,7 @@
     "bluefox <dogafox@gmail.com>"
   ],
   "devDependencies": {
-    "axios": "^0.23.0",
+    "axios": "^0.28.0",
     "chai": "^4.3.4",
     "eslint": "^8.0.1",
     "gulp": "^4.0.2",
